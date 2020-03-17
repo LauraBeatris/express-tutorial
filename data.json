@@ -1,0 +1,68 @@
+{
+  "patients": [
+    {
+      "id": 1,
+      "name": "Laura Beatris",
+      "age": 17,
+      "weight": 55,
+      "height": 1.51,
+      "symptoms": [
+        "fever",
+        "cough"
+      ]
+    },
+    {
+      "id": 2,
+      "name": "Junior",
+      "age": 17,
+      "weight": 55,
+      "height": 1.51,
+      "symptoms": [
+        "fever"
+      ]
+    },
+    {
+      "id": 3,
+      "name": "Luis",
+      "age": 17,
+      "weight": 100,
+      "height": 1.51,
+      "symptoms": [
+        "fever"
+      ]
+    },
+    {
+      "id": 4,
+      "name": "Adriano",
+      "age": 80,
+      "weight": 100,
+      "height": 1.51,
+      "symptoms": [
+        "fever",
+        "cough"
+      ]
+    },
+    {
+      "id": 5,
+      "name": "Adriano",
+      "age": "",
+      "weight": 100,
+      "height": 1.51,
+      "symptoms": [
+        "fever",
+        "cough"
+      ]
+    },
+    {
+      "id": 6,
+      "name": "Adriano Silveira",
+      "age": 80,
+      "weight": 100,
+      "height": 1.51,
+      "symptoms": [
+        "fever",
+        "cough"
+      ]
+    }
+  ]
+}

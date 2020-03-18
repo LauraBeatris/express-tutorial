@@ -25,7 +25,6 @@ An API Rest made with Express to register patients and detect Corona symptoms. T
 ## :ballot_box_with_check: Goals
 Understand how to create a server with Express, setting the routes, separating the entity operations with controllers and creating middlewares to do configurations or logics between two points.
 
-<hr>
 
 ## :checkered_flag: Installation 
 First of all, make sure that you have Node.js installed on your machine.

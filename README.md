@@ -16,7 +16,6 @@
   <a href="#memo-licence">Licence</a>
 </p>
 
-<hr>
 
 ## :rocket: About the project
 An API Rest made with Express to register patients and detect Corona symptoms. The file system API provided by Node was used to persist patients data, since the goal of the tutorial was to focus on Express Fundamentals and not to set up a database.

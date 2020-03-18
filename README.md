@@ -1,5 +1,5 @@
 <h1 align="center">
-  <img alt="Express" title="GoEat" src="https://expressjs.com/images/express-facebook-share.png" width="200px" />
+  <img alt="Express" title="Express" src="https://expressjs.com/images/express-facebook-share.png" width="200px" />
 </h1>
 
 <h2 style="color:red" align="center"> Express Tutorial </h3>
@@ -21,7 +21,6 @@
 ## :rocket: About the project
 An API Rest made with Express to register patients and detect Corona symptoms. The file system API provided by Node was used to persist patients data, since the goal of the tutorial was to focus on Express Fundamentals and not to set up a database.
 
-<hr>
 
 ## :ballot_box_with_check: Goals
 Understand how to create a server with Express, setting the routes, separating the entity operations with controllers and creating middlewares to do configurations or logics between two points.

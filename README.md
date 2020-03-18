@@ -42,7 +42,6 @@ yarn install
 
 To start the application 
 ```
-  // Development mode - .env.development
   yarn dev 
   
 ```
